@@ -10,7 +10,7 @@ const greeting = {
   title: "Tafsir Ahamed",
   logo_name: "Tafsir Ahamed",
   subTitle:
-    "A passionate individual who loves to learn new technologies and implement them in real world solutions.",
+    "An individual who is passionate and enthusiastic about learning technologies and implement them in real world solutions.",
   resumeLink:
     "https://drive.google.com/file/d/1aNQ-n7dSB8tykQ6bSfgIkyvZY1GVV1aB/view?usp=sharing",
   //portfolio_repository: "https://github.com/Tafsir1729/masterPortfolio",
@@ -334,8 +334,8 @@ const experience = {
       title: "Internship",
       experiences: [
         {
-          title: "Software Engineer (Intern)",
-          company: "ImpleVista",
+          title: "ImpleVista",
+          company: "Software Engineer (Intern)",
           company_url: "http://implevista.com/",
           logo_path: "imple_logo.png",
           duration: "January 2021 - PRESENT",
